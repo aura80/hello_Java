@@ -1,4 +1,4 @@
-package OOP_7;
+package OOP_8;
 
 public class Secretary extends Employee{
 
