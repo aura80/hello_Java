@@ -10,6 +10,7 @@ public class BankAccount {
 //
 //    Contul 09434242432232 cu balanta 1234.
 
+    
     private String owner;
     String accountNb;
     float balance;
